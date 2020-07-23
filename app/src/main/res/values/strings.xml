@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Liga Da Justiça</string>
+    <string name="bat">Batman</string>
+    <string name="diana">Mulher Maravilha</string>
+    <string name="sup">Superman</string>
+    <string name="flash">Flash</string>
+    <string name="btnMost">Mostrar Informações</string>
+    <string name="nome">Nome</string>
+    <string name="codinome">Codinome</string>
+    <string name="especie">Especie</string>
+    <string name="habilidade">Habilidade</string>
+    <string name="vulnerabilidade">Vulnerabilidade</string>
+    <string name="acesso">Nivel de acesso</string>
+    <string name="equipamento">Equipamento</string>
+    <string name="descequip">Descrição do Equipamento</string>
+    <string name="finalidadeequip">Finalidade do Equipamento</string>
+</resources>
+
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/idtela"
+    android:layout_width="match_parent"
+    android:layout_height="730dp"
+    android:background="#D665EA"
+    android:orientation="vertical"
+    tools:context="MainActivity">
+
+
+    <Button
+        android:id="@+id/btnBatman"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:background="#FF5722"
+        android:hint="@string/bat"
+        android:onClick="Batman"
+        android:textColorHint="#3D5AFE" />
+
+    <Button
+        android:id="@+id/btnMulher"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:background="#FF5722"
+        android:hint="@string/diana"
+        android:onClick="Mulher"
+        android:textColorHint="#3D5AFE" />
+
+    <Button
+        android:id="@+id/btnSuperman"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:background="#FF5722"
+        android:hint="@string/sup"
+        android:onClick="Superman"
+        android:textColorHint="#3D5AFE" />
+
+    <Button
+        android:id="@+id/btnFlash"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:background="#FF5722"
+        android:hint="@string/flash"
+        android:onClick="Flash"
+        android:textColorHint="#3D5AFE" />
+
+</LinearLayout>
